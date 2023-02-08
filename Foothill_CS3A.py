@@ -18,11 +18,10 @@ from enum import Enum
 """ Global variable """
 home_currency = ""
 
-# Need to download file and/or change file path in order to run code
+""" Need to download file and/or change file path in order to run code. """
 filename = "./AB_NYC_2019.csv"
 
 """ Custom exceptions"""
-
 
 class EmptyDataSetError(Exception):
     def __init__(self, message):
