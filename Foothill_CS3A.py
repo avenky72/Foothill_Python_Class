@@ -1,12 +1,13 @@
 """
-The program adds onto the previous programs of asking the user for their
-name, then printing out a welcome statement and a menu of choices for
-an Air BNB menu list. This programs creates a table in regards to the
-user's home currency. The program also accepts a header from the user
-and shows a copyright. The new code for module 7 has data for NY
-boroughs,property types, and prices. The code for module 8 codes for the
-load data function. The code for module 9 creates a table called based
-on the choice the user chooses from the menu.
+The program first asks the user for their name, then printing out a 
+welcome statement and a menu of choices for an Air BNB menu list. 
+programs creates a table in regards to the user's home currency. 
+The program also accepts a header from the user and shows a copyright. 
+new code for module 7 has data for NY boroughs,property types, and prices. 
+The code for module 8 codes for the load data function. The code for 
+module 9 creates a table called basedon the choice the user chooses from the menu.
+
+Code is a summer project from Foothill Course CS3A.
 """
 
 import csv
@@ -16,6 +17,8 @@ from enum import Enum
 
 """ Global variable """
 home_currency = ""
+
+# Need to download file and/or change file path in order to run code
 filename = "./AB_NYC_2019.csv"
 
 """ Custom exceptions"""
