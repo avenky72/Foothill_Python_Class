@@ -7,7 +7,6 @@ new code for module 7 has data for NY boroughs,property types, and prices.
 The code for module 8 codes for the load data function. The code for 
 module 9 creates a table called basedon the choice the user chooses from the menu.
 
-Code is a summer project from Foothill Course CS3A.
 """
 
 import csv
