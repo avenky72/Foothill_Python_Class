@@ -1,3 +1,2 @@
-# Foothill_Python_Class
-
-Summer 2021 Foothill python class relating to creating an AIRBNB directory for New York.
+AIRBNB Directory
+Summer 2021 Creating an AIRBNB directory for New York.
