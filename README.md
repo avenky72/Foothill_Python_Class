@@ -1,2 +1,3 @@
 AIRBNB Directory
-Summer 2021 Creating an AIRBNB directory for New York.
+Creating an AIRBNB directory for New York.
+Uses Static Data and Prices
